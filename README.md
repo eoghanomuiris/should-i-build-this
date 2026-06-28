@@ -6,8 +6,7 @@ Built as a portfolio project demonstrating PM-with-technical-depth: deliberate a
 
 ## Live demo
 
-<!-- Replace with your Vercel URL after deployment -->
-`https://your-app.vercel.app`
+**https://should-i-build-this.vercel.app**
 
 ## What it evaluates
 
